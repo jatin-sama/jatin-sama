@@ -66,7 +66,7 @@ Tech: React, Socket.io, Node.js, Express, MongoDB
 
 📬 Connect With Me
 
-Portfolio: https://jatin-patle-portfolio.vercel.app/
+Portfolio: https://jamtin.in
 
 LinkedIn: https://www.linkedin.com/in/jamtin-dev
 
