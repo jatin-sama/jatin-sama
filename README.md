@@ -66,7 +66,7 @@ Tech: React, Socket.io, Node.js, Express, MongoDB
 
 📬 Connect With Me
 
-Portfolio: https://jamtin.in
+Portfolio: https://jamtin.me
 
 LinkedIn: https://www.linkedin.com/in/jamtin-dev
 
